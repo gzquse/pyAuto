@@ -1,0 +1,1 @@
+python C:\Users\MartinLovesFey\python\py_auto\windowsAuto\auto\main2.py
